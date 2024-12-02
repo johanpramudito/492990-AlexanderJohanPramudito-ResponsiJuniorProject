@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "PZ3dOBaA/LgmIpRWc2vyiPx7ahQN1Vr8Qo/6TLnLh5BVvuxvHxBGKCRYGveF3egv+3rxDDfhg5i0Qh7VLPczIg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Johan\\Documents\\Johan\\Junpro\\492990_AlexanderJohanPramudito_ResponsiJuniorProject\\492990_AlexanderJohanPramudito_ResponsiJuniorProject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Johan\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.2\\microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\Johan\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.2\\microsoft.extensions.logging.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\Johan\\.nuget\\packages\\npgsql\\9.0.1\\npgsql.9.0.1.nupkg.sha512",
+    "C:\\Users\\Johan\\.nuget\\packages\\system.diagnostics.diagnosticsource\\8.0.1\\system.diagnostics.diagnosticsource.8.0.1.nupkg.sha512",
+    "C:\\Users\\Johan\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\Johan\\.nuget\\packages\\system.text.encodings.web\\8.0.0\\system.text.encodings.web.8.0.0.nupkg.sha512",
+    "C:\\Users\\Johan\\.nuget\\packages\\system.text.json\\8.0.5\\system.text.json.8.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
